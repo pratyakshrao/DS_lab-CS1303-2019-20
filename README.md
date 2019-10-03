@@ -10,7 +10,7 @@
 
 ### Contents:
 * ***Arrays.***
-
+1. [linear search in a given array](https://github.com/pratyakshrao/DS_lab-CS1303-2019-20/blob/master/linear_search_in_a_given%20array.c)
 
 
 * ***Linked List.***
